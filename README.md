@@ -1,5 +1,7 @@
 # vuejs-disabled-button-toggle-playground
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/adamchenwei/vuejs-disabled-button-toggle-playground.svg)](https://greenkeeper.io/)
+
 ## Project setup
 ```
 yarn install
